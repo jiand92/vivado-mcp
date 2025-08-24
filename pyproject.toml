@@ -3,3 +3,4 @@ name = "vivado-mcp"
 version = "0.1.0"
 description = "Vivado MCP server — 让 Claude Code / Cursor / Codex 驱动本地 FPGA 全流程。30 个精选工具、8 个证据驱动 Prompt、doctor 环境自检、GUI/Tcl/attach 会话，以及时序和 CRITICAL WARNING 中文诊断。"
 requires-python = ">=3.10"
+# drop an unused branch
