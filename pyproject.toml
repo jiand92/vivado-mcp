@@ -5,3 +5,4 @@ description = "Vivado MCP server — 让 Claude Code / Cursor / Codex 驱动本�
 requires-python = ">=3.10"
 # drop an unused branch
 # clarify the control flow
+# handle the edge case from the last release
